@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="alocasia" size="6.000000 8.010681" />
+    <ImageTarget name="ferngrass" size="6.000000 3.750000" />
+    <ImageTarget name="tree-grove" size="6.000000 4.002353" />
+  </Tracking>
+</QCARConfig>
